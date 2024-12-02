@@ -1,0 +1,101 @@
+id_tabel;kategori;uraian;satuan;tahun;nilai
+B.1.12.01;Moda Perkeretaapian;Kecelakaan;Kejadian;2018;11
+B.1.12.01;Moda Perkeretaapian;Korban Luka-luka;Orang;2018;0
+B.1.12.01;Moda Perkeretaapian;Korban Meninggal;Orang;2018;0
+B.1.12.01;Moda Perkeretaapian;Jumlah Laporan Final;Dokumen;2018;6
+B.1.12.01;Moda Perkeretaapian;Rekomendasi Keselamatan;Rekomendasi;2018;30
+B.1.12.01;Moda Pelayaran;Kecelakaan;Kejadian;2018;39
+B.1.12.01;Moda Pelayaran;Korban Luka-luka;Orang;2018;26
+B.1.12.01;Moda Pelayaran;Korban Meninggal;Orang;2018;299
+B.1.12.01;Moda Pelayaran;Jumlah Laporan Final;Dokumen;2018;38
+B.1.12.01;Moda Pelayaran;Rekomendasi Keselamatan;Rekomendasi;2018;330
+B.1.12.01;Moda Penerbangan;Kecelakaan;Kejadian;2018;46
+B.1.12.01;Moda Penerbangan;Korban Luka-luka;Orang;2018;5
+B.1.12.01;Moda Penerbangan;Korban Meninggal;Orang;2018;199
+B.1.12.01;Moda Penerbangan;Jumlah Laporan Final;Dokumen;2018;12
+B.1.12.01;Moda Penerbangan;Rekomendasi Keselamatan;Rekomendasi;2018;36
+B.1.12.01;Moda LLAJ;Kecelakaan;Kejadian;2018;15
+B.1.12.01;Moda LLAJ;Korban Luka-luka;Orang;2018;102
+B.1.12.01;Moda LLAJ;Korban Meninggal;Orang;2018;103
+B.1.12.01;Moda LLAJ;Jumlah Laporan Final;Dokumen;2018;15
+B.1.12.01;Moda LLAJ;Rekomendasi Keselamatan;Rekomendasi;2018;190
+B.1.12.01;Moda Perkeretaapian;Kecelakaan;Kejadian;2019;7
+B.1.12.01;Moda Perkeretaapian;Korban Luka-luka;Orang;2019;17
+B.1.12.01;Moda Perkeretaapian;Korban Meninggal;Orang;2019;0
+B.1.12.01;Moda Perkeretaapian;Jumlah Laporan Final;Dokumen;2019;5
+B.1.12.01;Moda Perkeretaapian;Rekomendasi Keselamatan;Rekomendasi;2019;32
+B.1.12.01;Moda Pelayaran;Kecelakaan;Kejadian;2019;25
+B.1.12.01;Moda Pelayaran;Korban Luka-luka;Orang;2019;10
+B.1.12.01;Moda Pelayaran;Korban Meninggal;Orang;2019;92
+B.1.12.01;Moda Pelayaran;Jumlah Laporan Final;Dokumen;2019;24
+B.1.12.01;Moda Pelayaran;Rekomendasi Keselamatan;Rekomendasi;2019;167
+B.1.12.01;Moda Penerbangan;Kecelakaan;Kejadian;2019;30
+B.1.12.01;Moda Penerbangan;Korban Luka-luka;Orang;2019;6
+B.1.12.01;Moda Penerbangan;Korban Meninggal;Orang;2019;5
+B.1.12.01;Moda Penerbangan;Jumlah Laporan Final;Dokumen;2019;5
+B.1.12.01;Moda Penerbangan;Rekomendasi Keselamatan;Rekomendasi;2019;39
+B.1.12.01;Moda LLAJ;Kecelakaan;Kejadian;2019;20
+B.1.12.01;Moda LLAJ;Korban Luka-luka;Orang;2019;179
+B.1.12.01;Moda LLAJ;Korban Meninggal;Orang;2019;116
+B.1.12.01;Moda LLAJ;Jumlah Laporan Final;Dokumen;2019;11
+B.1.12.01;Moda LLAJ;Rekomendasi Keselamatan;Rekomendasi;2019;226
+B.1.12.01;Moda Perkeretaapian;Kecelakaan;Kejadian;2020;2
+B.1.12.01;Moda Perkeretaapian;Korban Luka-luka;Orang;2020;0
+B.1.12.01;Moda Perkeretaapian;Korban Meninggal;Orang;2020;0
+B.1.12.01;Moda Perkeretaapian;Jumlah Laporan Final;Dokumen;2020;5
+B.1.12.01;Moda Perkeretaapian;Rekomendasi Keselamatan;Rekomendasi;2020;30
+B.1.12.01;Moda Pelayaran;Kecelakaan;Kejadian;2020;11
+B.1.12.01;Moda Pelayaran;Korban Luka-luka;Orang;2020;22
+B.1.12.01;Moda Pelayaran;Korban Meninggal;Orang;2020;11
+B.1.12.01;Moda Pelayaran;Jumlah Laporan Final;Dokumen;2020;10
+B.1.12.01;Moda Pelayaran;Rekomendasi Keselamatan;Rekomendasi;2020;61
+B.1.12.01;Moda Penerbangan;Kecelakaan;Kejadian;2020;25
+B.1.12.01;Moda Penerbangan;Korban Luka-luka;Orang;2020;5
+B.1.12.01;Moda Penerbangan;Korban Meninggal;Orang;2020;2
+B.1.12.01;Moda Penerbangan;Jumlah Laporan Final;Dokumen;2020;7
+B.1.12.01;Moda Penerbangan;Rekomendasi Keselamatan;Rekomendasi;2020;14
+B.1.12.01;Moda LLAJ;Kecelakaan;Kejadian;2020;12
+B.1.12.01;Moda LLAJ;Korban Luka-luka;Orang;2020;124
+B.1.12.01;Moda LLAJ;Korban Meninggal;Orang;2020;47
+B.1.12.01;Moda LLAJ;Jumlah Laporan Final;Dokumen;2020;10
+B.1.12.01;Moda LLAJ;Rekomendasi Keselamatan;Rekomendasi;2020;111
+B.1.12.01;Moda Perkeretaapian;Kecelakaan;Kejadian;2021;5
+B.1.12.01;Moda Perkeretaapian;Korban Luka-luka;Orang;2021;3
+B.1.12.01;Moda Perkeretaapian;Korban Meninggal;Orang;2021;0
+B.1.12.01;Moda Perkeretaapian;Jumlah Laporan Final;Dokumen;2021;2
+B.1.12.01;Moda Perkeretaapian;Rekomendasi Keselamatan;Rekomendasi;2021;19
+B.1.12.01;Moda Pelayaran;Kecelakaan;Kejadian;2021;19
+B.1.12.01;Moda Pelayaran;Korban Luka-luka;Orang;2021;27
+B.1.12.01;Moda Pelayaran;Korban Meninggal;Orang;2021;92
+B.1.12.01;Moda Pelayaran;Jumlah Laporan Final;Dokumen;2021;13
+B.1.12.01;Moda Pelayaran;Rekomendasi Keselamatan;Rekomendasi;2021;103
+B.1.12.01;Moda Penerbangan;Kecelakaan;Kejadian;2021;20
+B.1.12.01;Moda Penerbangan;Korban Luka-luka;Orang;2021;0
+B.1.12.01;Moda Penerbangan;Korban Meninggal;Orang;2021;66
+B.1.12.01;Moda Penerbangan;Jumlah Laporan Final;Dokumen;2021;6
+B.1.12.01;Moda Penerbangan;Rekomendasi Keselamatan;Rekomendasi;2021;33
+B.1.12.01;Moda LLAJ;Kecelakaan;Kejadian;2021;18
+B.1.12.01;Moda LLAJ;Korban Luka-luka;Orang;2021;140
+B.1.12.01;Moda LLAJ;Korban Meninggal;Orang;2021;75
+B.1.12.01;Moda LLAJ;Jumlah Laporan Final;Dokumen;2021;23
+B.1.12.01;Moda LLAJ;Rekomendasi Keselamatan;Rekomendasi;2021;279
+B.1.12.01;Moda Perkeretaapian;Kecelakaan;Kejadian;2022;4
+B.1.12.01;Moda Perkeretaapian;Korban Luka-luka;Orang;2022;8
+B.1.12.01;Moda Perkeretaapian;Korban Meninggal;Orang;2022;2
+B.1.12.01;Moda Perkeretaapian;Jumlah Laporan Final;Dokumen;2022;4
+B.1.12.01;Moda Perkeretaapian;Rekomendasi Keselamatan;Rekomendasi;2022;35
+B.1.12.01;Moda Pelayaran;Kecelakaan;Kejadian;2022;13
+B.1.12.01;Moda Pelayaran;Korban Luka-luka;Orang;2022;7
+B.1.12.01;Moda Pelayaran;Korban Meninggal;Orang;2022;42
+B.1.12.01;Moda Pelayaran;Jumlah Laporan Final;Dokumen;2022;11
+B.1.12.01;Moda Pelayaran;Rekomendasi Keselamatan;Rekomendasi;2022;74
+B.1.12.01;Moda Penerbangan;Kecelakaan;Kejadian;2022;20
+B.1.12.01;Moda Penerbangan;Korban Luka-luka;Orang;2022;8
+B.1.12.01;Moda Penerbangan;Korban Meninggal;Orang;2022;3
+B.1.12.01;Moda Penerbangan;Jumlah Laporan Final;Dokumen;2022;7
+B.1.12.01;Moda Penerbangan;Rekomendasi Keselamatan;Rekomendasi;2022;23
+B.1.12.01;Moda LLAJ;Kecelakaan;Kejadian;2022;15
+B.1.12.01;Moda LLAJ;Korban Luka-luka;Orang;2022;256
+B.1.12.01;Moda LLAJ;Korban Meninggal;Orang;2022;101
+B.1.12.01;Moda LLAJ;Jumlah Laporan Final;Dokumen;2022;14
+B.1.12.01;Moda LLAJ;Rekomendasi Keselamatan;Rekomendasi;2022;157
